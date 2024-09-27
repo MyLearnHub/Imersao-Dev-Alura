@@ -1,39 +1,44 @@
-## Desvendando Atletas - Imersão Dev com Google Gemini
+<div align="center">
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=alura" alt="Logo da Alura" />
+  <h3 align="center">Imersão Dev - Alura</h3>
+</div>
 
-**O que essa aplicação faz?**
+# 🔍Visão Geral
+  Este curso oferece uma introdução abrangente à tecnologias Front-End com HTML, CSS e JavaScript, abordando desde o desenvolvimento de telas, até o consumo de dados. O curso explora clean code, uso de variáveis, reaproveitamento de código, estruturas condicionais, laços de repetição, geração de elementos dinâmicos e manipulação de dados.
 
-Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta favorito ou sobre uma modalidade específica. Essa aplicação é a sua nova melhor amiga! Ela te ajuda a encontrar todas as informações que você precisa de forma rápida e fácil. 
+<div align="center">
+  <h3> 💻Tecnologias Aprendidas</h3>
+  <img src="https://iconsverse.vercel.app/icons?i=html,css,js" alt="Tecnologias Aprendidas">
+</div>
 
-**Como ela funciona?**
+# 📚Conteúdo Abordado
+  * Iniciando o projeto com HTML e CSS
+  * Estilizando o projeto com CSS
+  * Criando a base de dados com JavaScript
+  * Implementando a funcionalidade de busca
+  * Finalizando o projeto com GitHub e deploy
 
-1. **Digite e pesquise:** Você digita o nome do atleta ou esporte que você quer encontrar na caixinha de pesquisa.
-2. **Mágica acontece:** A aplicação vasculha um banco de dados gigante (que está no arquivo `dados.js`) e procura por tudo que tenha a ver com o que você digitou.
-3. **Resultados na tela:** Se a aplicação encontrar algo, ela mostra pra você um card com o nome do atleta, uma breve descrição e um link para saber mais. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
+# 🏅Certificado
+<img src="assets/certificado.jpg" alt="Certificado do Curso">
 
-**Tecnologias usadas:**
+# 🔗Recursos Adicionais
+### 🔧Ferramentas
+  - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 
-* HTML: A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer.
-* CSS: Deixa tudo bonitinho e organizado, com cores e fontes legais.
-* JavaScript: A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
+### 📖Guias de Referência
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
 
-**Como usar:**
+### 📎Curso
+  - <a href="https://www.alura.com.br/imersao-dev-google-gemini">Imersão Dev</a>
 
-1. **Clone o repositório:** Faça um clone desse repositório no seu computador.
-2. **Abra o arquivo index.html:** Abra o arquivo `index.html` no seu navegador favorito.
-3. **Comece a pesquisar:** Digite o nome do atleta ou esporte e veja a mágica acontecer!
-
-**Quer contribuir?**
-
-Se você é um desenvolvedor e quer ajudar a melhorar essa aplicação, fique à vontade para abrir um pull request! 
-
-**Observações:**
-
-* **Dados:** Os dados dos atletas estão no arquivo `dados.js`. Você pode adicionar mais dados aí se quiser.
-* **Design:** O design da página está no arquivo `style.css`. Se você quiser mudar as cores ou a fonte, é só editar esse arquivo.
-* **Funcionalidades:** A lógica da pesquisa está no arquivo `app.js`. Se você quiser adicionar mais funcionalidades, é só editar esse arquivo.
-
-**Dúvidas?**
-
-Se tiver alguma dúvida, pode abrir uma issue aqui no GitHub ou me mandar um email.
-
-**Vamos juntos criar a maior base de dados de atletas do Brasil!**
+# 📬Contato
+<div align="center"> 
+  <a href="https://github.com/Paulo-Alvares"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/paulo_10111/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/paulogabriel.alvares"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://codepen.io/Poulos-Alvares"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</div>
